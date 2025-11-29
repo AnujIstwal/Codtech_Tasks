@@ -2,6 +2,9 @@
 
 A modern and visually engaging landing page for the Mojito product, built with React, Tailwind CSS, and GSAP for smooth animations and responsive design.
 
+<img width="1867" height="880" alt="image" src="https://github.com/user-attachments/assets/bffb5702-ef63-4837-a09a-5c73ff2bc22b" />
+
+
 ## Features
 
 - Built with React for component-based structure
@@ -10,21 +13,8 @@ A modern and visually engaging landing page for the Mojito product, built with R
 - Responsive layout optimized for all device sizes
 - Fresh mint and lime inspired visual theme
 
-## Installation
-
-1. Clone the repository:
-git clone [https://github.com/AnujIstwal/GSAP_Cocktails.git](https://github.com/AnujIstwal/GSAP_Cocktails)
-
-2. Navigate to the project folder:
-**cd GSAP_Cocktails**
-
-3. Install dependencies:
-**npm install**
-
-4. Run the development server:
-**npm run dev**
-
-Open `http://localhost:5173` (or the port shown in terminal) to view the landing page.
+## Live Project
+[Check out the live project](https://gsap-cocktails-one-beta.vercel.app/)
 
 ## Deployment
 
