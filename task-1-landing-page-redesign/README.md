@@ -1,15 +1,13 @@
 # Task 1: Landing Page Redesign
 
 ## Original Website
-- **Site**: [Paste original URL, e.g., "glassdoor.com"]  
 - **Screenshot**: <img width="1236" height="626" alt="image" src="https://github.com/user-attachments/assets/92393fbb-1b29-4f9a-bace-4f05ef847ee0" />
 
 - **Pain Points**: Cluttered layout, poor mobile navigation, outdated colors. [attached_file:1]
 
 ## My Redesign
-- **Figma Prototype**: [Paste your Figma share link]  
-- **Desktop View**: ![Redesign Desktop](redesign-desktop.png)  
-- **Mobile View**: ![Redesign Mobile](redesign-mobile.png)
+- **Figma Prototype**: [[Paste your Figma share link]](https://www.figma.com/design/3HFfrVsYKLF2oYXeufy8kq/Codtech-Projects?node-id=0-1&t=GPRkc12B0Et0w6X2-1)  
+- **Desktop View**: <img width="1122" height="633" alt="image" src="https://github.com/user-attachments/assets/abd5e2e9-ea60-48c4-b4ff-ee9c0c6ea476" />
 
 ## Design Decisions
 - **Improved Layout**: Changed to card-based grid for better scannability (reduced cognitive load by 40%).  
