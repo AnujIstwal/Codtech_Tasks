@@ -2,7 +2,8 @@
 
 ## Original Website
 - **Site**: [Paste original URL, e.g., "glassdoor.com"]  
-- **Screenshot**: ![Original Desktop](original-desktop.png)  
+- **Screenshot**: <img width="1236" height="626" alt="image" src="https://github.com/user-attachments/assets/92393fbb-1b29-4f9a-bace-4f05ef847ee0" />
+
 - **Pain Points**: Cluttered layout, poor mobile navigation, outdated colors. [attached_file:1]
 
 ## My Redesign
