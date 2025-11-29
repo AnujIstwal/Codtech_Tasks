@@ -6,7 +6,7 @@
 - **Pain Points**: Cluttered layout, poor mobile navigation, outdated colors. [attached_file:1]
 
 ## My Redesign
-- **Figma Prototype**: [[Paste your Figma share link]](https://www.figma.com/design/3HFfrVsYKLF2oYXeufy8kq/Codtech-Projects?node-id=0-1&t=GPRkc12B0Et0w6X2-1)  
+- **Figma Prototype**: [[Figma link]](https://www.figma.com/design/3HFfrVsYKLF2oYXeufy8kq/Codtech-Projects?node-id=0-1&t=GPRkc12B0Et0w6X2-1)  
 - **Desktop View**: <img width="1122" height="633" alt="image" src="https://github.com/user-attachments/assets/abd5e2e9-ea60-48c4-b4ff-ee9c0c6ea476" />
 
 ## Design Decisions
